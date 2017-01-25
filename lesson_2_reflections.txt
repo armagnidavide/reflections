@@ -14,6 +14,8 @@ Well we make sure that inside it there are only files related to that logical ch
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+First thing that comes in my mind is that if we are working on a project in a  group we can have a working-branch for each member and a master branche where we put the changes we all agree with.
+Second thing we can use brances for testing,trying new versions ecc..
 
 How do the diagrams help you visualize the branch structure?
 
