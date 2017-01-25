@@ -18,6 +18,7 @@ First thing that comes in my mind is that if we are working on a project in a  g
 Second thing we can use brances for testing,trying new versions ecc..
 
 How do the diagrams help you visualize the branch structure?
+They help us to see where a new branch was created and which commits were made in all branches.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
