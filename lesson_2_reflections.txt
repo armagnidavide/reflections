@@ -30,3 +30,7 @@ eccc... .
 We represent it in a diagram because it's easier to understand the relations between commits, before and after the merge.
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Pros of automatic merging:
+take less time,1 second instead of a lot of manually work.
+If there is a conflict is automatically shown, so it's easier to solve it.
+Cons: if the branch A adds some lins not in conflict with branch B, but branch B doesn't agree to that addiction, the automatic merging tools add those lines always. So we should check the files before the merge, or speaking about what we added from the original before making the merge.
