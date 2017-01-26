@@ -9,6 +9,13 @@ If I'm working on some changes but I don't want to make them public yet because 
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
+A fork is a clone of a repository from a github account to another github account.
+A clone is a clone of a repository from a github account to a remote or from a remote to a remote.
+A branch is a series of commits in timestamp order.
+I would use a fork when I want to work on a repository that comes from onother account on github.
+I would use a clone when i want to be able to work on a Github repository from my local machine.
+I would use a branch to make experimental changes on a project or to collaborate on a project.
+
 
     Fill in your answer here
 
