@@ -22,6 +22,11 @@ They help us to see where a new branch was created and which commits were made i
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+The result is the merge of all files in the two brnaches. Following some rules, git merge all lines of all files together. 
+For example some rules are:
+if both branches have modified some lines of the original file, but differently, git cannot pick up one randomly so a mege conflict is presented, where we can choose what to keep and what we will not keep.
+If one branch add a line that was not present in the original file and the other branch doesn't, that line is keeped.
+eccc... .
+We represent it in a diagram because it's easier to understand the relations between commits, before and after the merge.
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
