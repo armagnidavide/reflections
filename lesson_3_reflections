@@ -22,7 +22,7 @@ I would use a branch to make experimental changes on a project or to collaborate
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    We can keep developing our local branch indepentently from the remote , than we can use fetch to open another branch, starting in that known point of the branch, with all the new changes made on the remote. So now we can compare our local changes with the ones on the remote with git log and git diff.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
