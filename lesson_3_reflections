@@ -33,5 +33,4 @@ and what would be harder?
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+Make changes in a separate branch is the best way to allow collaborators to make changes without modifying the master branch till everyone is agree with the changes.
